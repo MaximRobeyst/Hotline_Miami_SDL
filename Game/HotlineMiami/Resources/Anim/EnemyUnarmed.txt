@@ -1,0 +1,8 @@
+<Animation
+	Imagepath="Resources/Images/Enemy/EnemyUnarmed.png"
+	startpoint="0,0"
+	framewidth="54"
+	frameheight="54"
+	frames="8"
+	framespersec="13"
+/>

@@ -1,0 +1,8 @@
+<Animation
+	Imagepath="Resources/Images/car.png"
+	startpoint="0,0"
+	framewidth="107"
+	frameheight="70"
+	frames="3"
+	framespersec="10"
+/>

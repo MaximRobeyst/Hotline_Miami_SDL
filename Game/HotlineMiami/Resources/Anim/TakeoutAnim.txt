@@ -1,0 +1,8 @@
+<Animation
+	Imagepath="Resources/Images/Player/TakeoutAnim.png"
+	startpoint="0,0"
+	framewidth="78"
+	frameheight="40"
+	frames="4"
+	framespersec="20"
+/>

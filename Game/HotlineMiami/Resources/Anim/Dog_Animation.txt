@@ -1,0 +1,8 @@
+<Animation
+	Imagepath="Resources/Images/Enemy/Dog_SpriteSheet.png"
+	startpoint="0,0"
+	framewidth="60"
+	frameheight="16"
+	frames="8"
+	framespersec="10"
+/>

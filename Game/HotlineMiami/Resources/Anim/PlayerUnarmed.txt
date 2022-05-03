@@ -1,0 +1,8 @@
+<Animation
+	Imagepath="Resources/Images/Player/PlayerUnarmed.png"
+	startpoint="0,0"
+	framewidth="54"
+	frameheight="30"
+	frames="8"
+	framespersec="13"
+/>

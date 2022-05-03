@@ -1,0 +1,8 @@
+<Animation
+	Imagepath="Resources/Images/Bloodpool.png"
+	startpoint="0,0"
+	framewidth="32"
+	frameheight="32"
+	frames="64"
+	framespersec="16"
+/>

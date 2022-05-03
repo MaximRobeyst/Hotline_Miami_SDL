@@ -1,0 +1,9 @@
+<Level
+	levelname="level-end"
+	background="Resources/Images/Level.png"
+	player_position="150, 500"
+	vertices="Resources/Images/Level.svg"
+	shapes="6"
+	endlevelrect="240,490,100,60"
+	nextlevel="Resources/Level2.txt"
+/>

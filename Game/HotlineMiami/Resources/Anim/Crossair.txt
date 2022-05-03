@@ -1,0 +1,8 @@
+<Animation
+	Imagepath="Resources/Images/CrossairSpriteSheet.png"
+	startpoint="0,14"
+	framewidth="14"
+	frameheight="14"
+	frames="12"
+	framespersec="12"
+/>

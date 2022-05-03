@@ -1,0 +1,321 @@
+<Level
+	levelname="level2"
+	background="Resources/Images/Level2.png"
+	player_position="290, 520"
+	vertices="Resources/Images/Level2.svg"
+	shapes="4"
+	endlevelrect="290,510,100,60"
+	nextlevel="Resources/level-save"
+/>
+
+<Pickup
+	position="425,205"
+	name="Pipe"
+	width="58"
+	height="48"
+	type="mellee"
+	attackframes="9"
+	walkframes="8"
+	walkfps="13
+	attackfps="13"
+	soundeffect="Resources/Audio/Swing1.wav"
+	range="50"
+	attackangle="45"
+/>
+
+<Enemy
+	position="300,480"
+	angle="90"
+	path=" 300,480 300,480"
+	pickup=*
+		position="100, 100"
+		name="M16"
+		width="58"
+		height="32"
+		type="gun"
+		attackframes="2"
+		walkframes="8"
+		walkfps="13"
+		attackfps="20"
+		soundeffect="Resources/Audio/M16.wav"
+		clip="45"
+		ammo="45"
+		range="1000"
+		firerate="7"
+		spreadangle="21"
+		spreadpieces="1"
+		bulletoffset="52"
+	*
+/>
+
+<Enemy
+	position="280,340"
+	angle="-90"
+	path=" 290,375 290,375"
+	pickup=*
+		position="100,500"
+		name="Pipe"
+		width="58"
+		height="48"
+		type="mellee"
+		attackframes="9"
+		walkframes="8"
+		walkfps="13
+		attackfps="13"
+		soundeffect="Resources/Audio/Swing1.wav"
+		range="50"
+		attackangle="45"
+	*
+/>
+
+<Enemy
+	position="400,395"
+	angle="-45"
+	path=" 400,395 400,395"
+	pickup=*
+		position="100,500"
+		name="Pipe"
+		width="58"
+		height="48"
+		type="mellee"
+		attackframes="9"
+		walkframes="8"
+		walkfps="13
+		attackfps="13"
+		soundeffect="Resources/Audio/Swing1.wav"
+		range="50"
+		attackangle="45"
+	*
+/>
+
+<Enemy
+	position="500,395"
+	angle="225"
+	path=" 500,395 500,395"
+	pickup=*
+		position="100,500"
+		name="Bat"
+		width="58"
+		height="48"
+		type="mellee"
+		attackframes="9"
+		walkframes="8"
+		walkfps="13
+		attackfps="13"
+		soundeffect="Resources/Audio/Swing1.wav"
+		range="50"
+		attackangle="45"
+	*
+/>
+
+<Enemy
+	position="250,290"
+	angle="-90"
+	path=" 250,270 250,165 450,165 450,270"
+	pickup=*
+		position="100, 100"
+		name="Shotgun"
+		width="64"
+		height="22"
+		type="gun"
+		attackframes="2"
+		walkframes="8"
+		walkfps="13"
+		attackfps="5"
+		soundeffect="Resources/Audio/Shotgun.wav"
+		clip="8"
+		ammo="8"
+		range="1000"
+		firerate="7"
+		spreadangle="21"
+		spreadpieces="8"
+		bulletoffset="52"
+	*
+/>
+
+<Enemy
+	position="360,475"
+	angle="0"
+	path=" 360,475 360,450 340,450 340,360 360,360 360,325 545,325 545,360 565,360 565,450 545,450 545,475"
+	pickup=*
+		position="100, 100"
+		name="DoubleBarrel"
+		width="64"
+		height="32"
+		type="gun"
+		attackframes="5"
+		walkframes="8"
+		walkfps="13"
+		attackfps="5"
+		soundeffect="Resources/Audio/Shotgun.wav"
+		clip="2"
+		ammo="2"
+		range="1000"
+		firerate="7"
+		spreadangle="21"
+		spreadpieces="8"
+		bulletoffset="52"
+	*
+/>
+
+<Enemy
+	position="360,360"
+	angle="0"
+	path=" 360,360 360,325 545,325 545,360 565,360 565,450 545,450 545,475 360,475 360,450 340,450 340,360"
+	pickup=*
+		position="100, 100"
+		name="M16"
+		width="58"
+		height="32"
+		type="gun"
+		attackframes="2"
+		walkframes="8"
+		walkfps="13"
+		attackfps="20"
+		soundeffect="Resources/Audio/M16.wav"
+		clip="45"
+		ammo="45"
+		range="1000"
+		firerate="7"
+		spreadangle="21"
+		spreadpieces="1"
+		bulletoffset="52"
+	*
+/>
+
+<Enemy
+	position="25,300"
+	angle="0"
+	path=" 15,300 15,160 215,160 215,300"
+	pickup=*
+		position="100,500"
+		name="Pipe"
+		width="58"
+		height="48"
+		type="mellee"
+		attackframes="9"
+		walkframes="8"
+		walkfps="13
+		attackfps="13"
+		soundeffect="Resources/Audio/Swing1.wav"
+		range="50"
+		attackangle="45"
+	*
+/>
+
+<Enemy
+	position="215,160"
+	angle="0"
+	path=" 215,160 215,300 15,300 15,160"
+	pickup=*
+		position="100,500"
+		name="Pipe"
+		width="58"
+		height="48"
+		type="mellee"
+		attackframes="9"
+		walkframes="8"
+		walkfps="13
+		attackfps="13"
+		soundeffect="Resources/Audio/Swing1.wav"
+		range="50"
+		attackangle="45"
+	*
+/>
+
+<Enemy
+	position="30,235"
+	angle="0"
+	path=" 30,235 30,235"
+	pickup=*
+		position="100, 100"
+		name="M16"
+		width="58"
+		height="32"
+		type="gun"
+		attackframes="2"
+		walkframes="8"
+		walkfps="13"
+		attackfps="20"
+		soundeffect="Resources/Audio/M16.wav"
+		clip="45"
+		ammo="45"
+		range="1000"
+		firerate="7"
+		spreadangle="21"
+		spreadpieces="1"
+		bulletoffset="52"
+	*
+/>
+
+<Enemy
+	position="175,415"
+	angle="135"
+	path=" 175,415 175,415"
+	pickup=*
+		position="100, 100"
+		name="M16"
+		width="58"
+		height="32"
+		type="gun"
+		attackframes="2"
+		walkframes="8"
+		walkfps="13"
+		attackfps="20"
+		soundeffect="Resources/Audio/M16.wav"
+		clip="45"
+		ammo="45"
+		range="1000"
+		firerate="7"
+		spreadangle="21"
+		spreadpieces="1"
+		bulletoffset="52"
+	*
+/>
+
+<Enemy
+	position="30,475"
+	angle="-90"
+	path=" 30,475 30,475"
+	pickup=*
+		position="100,500"
+		name="Pipe"
+		width="58"
+		height="48"
+		type="mellee"
+		attackframes="9"
+		walkframes="8"
+		walkfps="13
+		attackfps="13"
+		soundeffect="Resources/Audio/Swing1.wav"
+		range="50"
+		attackangle="45"
+	*
+/>
+
+
+<Door
+	rect="256,508,32,4"
+	angle="0"
+/>
+
+<Door
+	rect="256,408,32,4"
+	angle="0"
+/>
+
+<Door
+	rect="384,280,32,4"
+	angle="0"
+/>
+
+<Door
+	rect="32,312,32,4"
+	angle="0"
+/>
+
+<Door
+	rect="232,224,32,4"
+	angle="90"
+/>
+

@@ -1,0 +1,8 @@
+<Animation
+	Imagepath="Resources/Images/Bloodsplatter.png"
+	startpoint="0,0"
+	framewidth="64"
+	frameheight="12"
+	frames="8"
+	framespersec="20"
+/>
