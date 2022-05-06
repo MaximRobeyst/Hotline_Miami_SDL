@@ -24,9 +24,17 @@
 *.lai
 *.la
 *.a
-*.lib
 
 # Executables
 *.exe
 *.out
 *.app
+Game/x64/Debug/HotlineMiami.pdb
+Game/HotlineMiami/x64/Debug/HotlineMiami.tlog/link.read.1.tlog
+Game/HotlineMiami/x64/Debug/HotlineMiami.log
+Game/HotlineMiami/x64/Debug/HotlineMiami.ilk
+Game/HotlineMiami/x64/Debug/HotlineMiami.tlog/link.read.1.tlog
+Game/HotlineMiami/x64/Debug/HotlineMiami.log
+Game/HotlineMiami/x64/Debug/HotlineMiami.ilk
+Game/.vs/Game/v17/Browse.VC.db
+Game/.vs/Game/v17/.suo

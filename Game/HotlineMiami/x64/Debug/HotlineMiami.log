@@ -1,7 +1,26 @@
-﻿  utils.cpp
+﻿  LINK : D:\Howest\Hotline_Miami\Hotline_Miami_SDL\Game\x64\Debug\HotlineMiami.exe not found or not built by the last incremental link; performing full link
   HotlineMiami.vcxproj -> D:\Howest\Hotline_Miami\Hotline_Miami_SDL\Game\x64\Debug\HotlineMiami.exe
   COPY THE DLL FILES
-  0 File(s) copied
-  0 File(s) copied
-  0 File(s) copied
-  0 File(s) copied
+  D:\Howest\Hotline_Miami\Hotline_Miami_SDL\Game\Libraries\SDL2-2.0.10\lib\x64\SDL2.dll
+  1 File(s) copied
+  D:\Howest\Hotline_Miami\Hotline_Miami_SDL\Game\Libraries\SDL2_image-2.0.5\lib\x64\libjpeg-9.dll
+  D:\Howest\Hotline_Miami\Hotline_Miami_SDL\Game\Libraries\SDL2_image-2.0.5\lib\x64\libpng16-16.dll
+  D:\Howest\Hotline_Miami\Hotline_Miami_SDL\Game\Libraries\SDL2_image-2.0.5\lib\x64\libtiff-5.dll
+  D:\Howest\Hotline_Miami\Hotline_Miami_SDL\Game\Libraries\SDL2_image-2.0.5\lib\x64\libwebp-7.dll
+  D:\Howest\Hotline_Miami\Hotline_Miami_SDL\Game\Libraries\SDL2_image-2.0.5\lib\x64\SDL2_image.dll
+  D:\Howest\Hotline_Miami\Hotline_Miami_SDL\Game\Libraries\SDL2_image-2.0.5\lib\x64\zlib1.dll
+  6 File(s) copied
+  D:\Howest\Hotline_Miami\Hotline_Miami_SDL\Game\Libraries\SDL2_mixer-2.0.4\lib\x64\libFLAC-8.dll
+  D:\Howest\Hotline_Miami\Hotline_Miami_SDL\Game\Libraries\SDL2_mixer-2.0.4\lib\x64\libmodplug-1.dll
+  D:\Howest\Hotline_Miami\Hotline_Miami_SDL\Game\Libraries\SDL2_mixer-2.0.4\lib\x64\libmpg123-0.dll
+  D:\Howest\Hotline_Miami\Hotline_Miami_SDL\Game\Libraries\SDL2_mixer-2.0.4\lib\x64\libogg-0.dll
+  D:\Howest\Hotline_Miami\Hotline_Miami_SDL\Game\Libraries\SDL2_mixer-2.0.4\lib\x64\libopus-0.dll
+  D:\Howest\Hotline_Miami\Hotline_Miami_SDL\Game\Libraries\SDL2_mixer-2.0.4\lib\x64\libopusfile-0.dll
+  D:\Howest\Hotline_Miami\Hotline_Miami_SDL\Game\Libraries\SDL2_mixer-2.0.4\lib\x64\libvorbis-0.dll
+  D:\Howest\Hotline_Miami\Hotline_Miami_SDL\Game\Libraries\SDL2_mixer-2.0.4\lib\x64\libvorbisfile-3.dll
+  D:\Howest\Hotline_Miami\Hotline_Miami_SDL\Game\Libraries\SDL2_mixer-2.0.4\lib\x64\SDL2_mixer.dll
+  9 File(s) copied
+  D:\Howest\Hotline_Miami\Hotline_Miami_SDL\Game\Libraries\SDL2_ttf-2.0.15\lib\x64\libfreetype-6.dll
+  D:\Howest\Hotline_Miami\Hotline_Miami_SDL\Game\Libraries\SDL2_ttf-2.0.15\lib\x64\SDL2_ttf.dll
+  D:\Howest\Hotline_Miami\Hotline_Miami_SDL\Game\Libraries\SDL2_ttf-2.0.15\lib\x64\zlib1.dll
+  3 File(s) copied
